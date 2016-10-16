@@ -1,0 +1,375 @@
+[
+  [
+    "vehicleno:NULL",
+    "routeno:504",
+    "vehiclelat:NULL",
+    "vehiclelng:NULL",
+    "routeid:8092",
+    "serviceid:1",
+    "nearestlatlng:NULL",
+    [
+      {
+        "start_bus_stop_name": "Tin Factory",
+        "distance": "0.784",
+        "end_bus_stop_id": 0,
+        "start_bus_stop_id": 0,
+        "fare": 0,
+        "timetotravel": 0,
+        "start_lat": "12.99697042",
+        "start_lng": "77.66929525"
+      },
+      {
+        "start_bus_stop_name": "Railway Station KR Puram",
+        "distance": "1.66",
+        "end_bus_stop_id": 0,
+        "start_bus_stop_id": 0,
+        "fare": 0,
+        "timetotravel": 0,
+        "start_lat": "13.00021342",
+        "start_lng": "77.67596501"
+      },
+      {
+        "start_bus_stop_name": "B Narayanapura",
+        "distance": "2.493",
+        "end_bus_stop_id": 0,
+        "start_bus_stop_id": 0,
+        "fare": 0,
+        "timetotravel": 0,
+        "start_lat": "13.00037684",
+        "start_lng": "77.68399582"
+      },
+      {
+        "start_bus_stop_name": "Mahadevapura",
+        "distance": "2.847",
+        "end_bus_stop_id": 0,
+        "start_bus_stop_id": 0,
+        "fare": 0,
+        "timetotravel": 0,
+        "start_lat": "12.99735044",
+        "start_lng": "77.69070948"
+      },
+      {
+        "start_bus_stop_name": "Singainapalya",
+        "distance": "3.001",
+        "end_bus_stop_id": 0,
+        "start_bus_stop_id": 0,
+        "fare": 0,
+        "timetotravel": 0,
+        "start_lat": "12.99620607",
+        "start_lng": "77.69374524"
+      },
+      {
+        "start_bus_stop_name": "Singaianapalya Phoenix",
+        "distance": "3.748",
+        "end_bus_stop_id": 0,
+        "start_bus_stop_id": 0,
+        "fare": 0,
+        "timetotravel": 0,
+        "start_lat": "12.99566668",
+        "start_lng": "77.69505188"
+      },
+      {
+        "start_bus_stop_name": "Garudacharpalya",
+        "distance": "4.17",
+        "end_bus_stop_id": 0,
+        "start_bus_stop_id": 0,
+        "fare": 0,
+        "timetotravel": 0,
+        "start_lat": "12.99402101",
+        "start_lng": "77.70171069"
+      },
+      {
+        "start_bus_stop_name": "Brook Steel ESI",
+        "distance": "5.368",
+        "end_bus_stop_id": 0,
+        "start_bus_stop_id": 0,
+        "fare": 0,
+        "timetotravel": 0,
+        "start_lat": "12.99310549",
+        "start_lng": "77.70546734"
+      },
+      {
+        "start_bus_stop_name": "Hoodi",
+        "distance": "5.92",
+        "end_bus_stop_id": 0,
+        "start_bus_stop_id": 0,
+        "fare": 0,
+        "timetotravel": 0,
+        "start_lat": "12.99228224",
+        "start_lng": "77.71630953"
+      },
+      {
+        "start_bus_stop_name": "Rajapalya",
+        "distance": "7.146",
+        "end_bus_stop_id": 0,
+        "start_bus_stop_id": 0,
+        "fare": 0,
+        "timetotravel": 0,
+        "start_lat": "12.99129818",
+        "start_lng": "77.72117091"
+      },
+      {
+        "start_bus_stop_name": "Big Bazzar  ITPL",
+        "distance": "7.352",
+        "end_bus_stop_id": 0,
+        "start_bus_stop_id": 0,
+        "fare": 0,
+        "timetotravel": 0,
+        "start_lat": "12.98822336",
+        "start_lng": "77.73193404"
+      },
+      {
+        "start_bus_stop_name": "Pattandur Agrahara Gate",
+        "distance": "7.747",
+        "end_bus_stop_id": 0,
+        "start_bus_stop_id": 0,
+        "fare": 0,
+        "timetotravel": 0,
+        "start_lat": "12.98794716",
+        "start_lng": "77.73380882"
+      },
+      {
+        "start_bus_stop_name": "ITPL",
+        "distance": "8.501",
+        "end_bus_stop_id": 0,
+        "start_bus_stop_id": 0,
+        "fare": 0,
+        "timetotravel": 0,
+        "start_lat": "12.98769279",
+        "start_lng": "77.73739233"
+      },
+      {
+        "start_bus_stop_name": "GR Tech Park ITPL",
+        "distance": "8.933",
+        "end_bus_stop_id": 0,
+        "start_bus_stop_id": 0,
+        "fare": 0,
+        "timetotravel": 0,
+        "start_lat": "12.98661599",
+        "start_lng": "77.74426014"
+      },
+      {
+        "start_bus_stop_name": "BPL",
+        "distance": "9.504",
+        "end_bus_stop_id": 0,
+        "start_bus_stop_id": 0,
+        "fare": 0,
+        "timetotravel": 0,
+        "start_lat": "12.98530919",
+        "start_lng": "77.74801791"
+      },
+      {
+        "start_bus_stop_name": "Hope Farm",
+        "distance": "9.808",
+        "end_bus_stop_id": 0,
+        "start_bus_stop_id": 0,
+        "fare": 0,
+        "timetotravel": 0,
+        "start_lat": "12.98326518",
+        "start_lng": "77.75232229"
+      },
+      {
+        "start_bus_stop_name": "Munish Singh Hospital",
+        "distance": "10.572",
+        "end_bus_stop_id": 0,
+        "start_bus_stop_id": 0,
+        "fare": 0,
+        "timetotravel": 0,
+        "start_lat": "12.98057588",
+        "start_lng": "77.75184274"
+      },
+      {
+        "start_bus_stop_name": "Sai Baba General Hospital",
+        "distance": "11.099",
+        "end_bus_stop_id": 0,
+        "start_bus_stop_id": 0,
+        "fare": 0,
+        "timetotravel": 0,
+        "start_lat": "12.97389787",
+        "start_lng": "77.75057405"
+      },
+      {
+        "start_bus_stop_name": "White Field Post Office",
+        "distance": "11.682",
+        "end_bus_stop_id": 0,
+        "start_bus_stop_id": 0,
+        "fare": 0,
+        "timetotravel": 0,
+        "start_lat": "12.96926404",
+        "start_lng": "77.74996365"
+      },
+      {
+        "start_bus_stop_name": "Brooke Bond",
+        "distance": "12.217",
+        "end_bus_stop_id": 0,
+        "start_bus_stop_id": 0,
+        "fare": 0,
+        "timetotravel": 0,
+        "start_lat": "12.96421639",
+        "start_lng": "77.74860263"
+      },
+      {
+        "start_bus_stop_name": "Forum Mall",
+        "distance": "12.563",
+        "end_bus_stop_id": 0,
+        "start_bus_stop_id": 0,
+        "fare": 0,
+        "timetotravel": 0,
+        "start_lat": "12.95969441",
+        "start_lng": "77.74690479"
+      },
+      {
+        "start_bus_stop_name": "Varthur Kodi",
+        "distance": "13.194",
+        "end_bus_stop_id": 0,
+        "start_bus_stop_id": 0,
+        "fare": 0,
+        "timetotravel": 0,
+        "start_lat": "12.95696911",
+        "start_lng": "77.74539676"
+      },
+      {
+        "start_bus_stop_name": "Ramagondanahalli",
+        "distance": "14.174",
+        "end_bus_stop_id": 0,
+        "start_bus_stop_id": 0,
+        "fare": 0,
+        "timetotravel": 0,
+        "start_lat": "12.95689538",
+        "start_lng": "77.73969932"
+      },
+      {
+        "start_bus_stop_name": "Siddapura",
+        "distance": "15.292",
+        "end_bus_stop_id": 0,
+        "start_bus_stop_id": 0,
+        "fare": 0,
+        "timetotravel": 0,
+        "start_lat": "12.95606013",
+        "start_lng": "77.73072328"
+      },
+      {
+        "start_bus_stop_name": "Thubarahalli",
+        "distance": "16.014",
+        "end_bus_stop_id": 0,
+        "start_bus_stop_id": 0,
+        "fare": 0,
+        "timetotravel": 0,
+        "start_lat": "12.95573591",
+        "start_lng": "77.72035565"
+      },
+      {
+        "start_bus_stop_name": "Kundalahalli Gate",
+        "distance": "16.552",
+        "end_bus_stop_id": 0,
+        "start_bus_stop_id": 0,
+        "fare": 0,
+        "timetotravel": 0,
+        "start_lat": "12.95585442",
+        "start_lng": "77.71376455"
+      },
+      {
+        "start_bus_stop_name": "Munnekolalu Cross",
+        "distance": "18.198",
+        "end_bus_stop_id": 0,
+        "start_bus_stop_id": 0,
+        "fare": 0,
+        "timetotravel": 0,
+        "start_lat": "12.95629245",
+        "start_lng": "77.70887399"
+      },
+      {
+        "start_bus_stop_name": "Marathahalli Bridge Flyover",
+        "distance": "18.54",
+        "end_bus_stop_id": 0,
+        "start_bus_stop_id": 0,
+        "fare": 0,
+        "timetotravel": 0,
+        "start_lat": "12.95740280",
+        "start_lng": "77.70100415"
+      },
+      {
+        "start_bus_stop_name": "Marathahalli Bridge",
+        "distance": "19.441",
+        "end_bus_stop_id": 0,
+        "start_bus_stop_id": 0,
+        "fare": 0,
+        "timetotravel": 0,
+        "start_lat": "12.96026339",
+        "start_lng": "77.70130393"
+      },
+      {
+        "start_bus_stop_name": "Karthik Nagara",
+        "distance": "20.906",
+        "end_bus_stop_id": 0,
+        "start_bus_stop_id": 0,
+        "fare": 0,
+        "timetotravel": 0,
+        "start_lat": "12.96823165",
+        "start_lng": "77.70146702"
+      },
+      {
+        "start_bus_stop_name": "Dodda Nekkundi",
+        "distance": "21.196",
+        "end_bus_stop_id": 0,
+        "start_bus_stop_id": 0,
+        "fare": 0,
+        "timetotravel": 0,
+        "start_lat": "12.97958369",
+        "start_lng": "77.69460772"
+      },
+      {
+        "start_bus_stop_name": "EMC2",
+        "distance": "22.435",
+        "end_bus_stop_id": 0,
+        "start_bus_stop_id": 0,
+        "fare": 0,
+        "timetotravel": 0,
+        "start_lat": "12.98183632",
+        "start_lng": "77.69322507"
+      },
+      {
+        "start_bus_stop_name": "Mahadevapura Ring Road",
+        "distance": "23.097",
+        "end_bus_stop_id": 0,
+        "start_bus_stop_id": 0,
+        "fare": 0,
+        "timetotravel": 0,
+        "start_lat": "12.99132513",
+        "start_lng": "77.68723575"
+      },
+      {
+        "start_bus_stop_name": "B Narayanapura Ring Road",
+        "distance": "24.123",
+        "end_bus_stop_id": 0,
+        "start_bus_stop_id": 0,
+        "fare": 0,
+        "timetotravel": 0,
+        "start_lat": "12.99624357",
+        "start_lng": "77.68369237"
+      },
+      {
+        "start_bus_stop_name": "Railway Station KR Puram",
+        "distance": "24.983",
+        "end_bus_stop_id": 0,
+        "start_bus_stop_id": 0,
+        "fare": 0,
+        "timetotravel": 0,
+        "start_lat": "13.00003426",
+        "start_lng": "77.67651600"
+      },
+      {
+        "start_bus_stop_name": "Tin Factory",
+        "distance": "24.983",
+        "end_bus_stop_id": 0,
+        "start_bus_stop_id": 0,
+        "fare": 0,
+        "timetotravel": 0,
+        "start_lat": "12.99669284",
+        "start_lng": "77.66940688"
+      }
+    ],
+    "ETA:0",
+    "FARE:0"
+  ]
+]

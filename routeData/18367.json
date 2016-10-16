@@ -1,0 +1,435 @@
+[
+    [
+        "vehicleno:NULL",
+        "routeno:MEBP-ELC",
+        "vehiclelat:NULL",
+        "vehiclelng:NULL",
+        "routeid:18367",
+        "serviceid:1",
+        "nearestlatlng:NULL",
+        [
+            {
+                "start_bus_stop_name": "CS-Manyata Embassy Business Park",
+                "distance": "0.587",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "13.04410600",
+                "start_lng": "77.62075514"
+            },
+            {
+                "start_bus_stop_name": "Nagavara",
+                "distance": "0.837",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "13.04128529",
+                "start_lng": "77.62266822"
+            },
+            {
+                "start_bus_stop_name": "Jn of Nagawara",
+                "distance": "1.553",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "13.04014175",
+                "start_lng": "77.62453436"
+            },
+            {
+                "start_bus_stop_name": "HBR Layout",
+                "distance": "2.254",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "13.03519764",
+                "start_lng": "77.62863344"
+            },
+            {
+                "start_bus_stop_name": "Hennur Cross",
+                "distance": "2.917",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "13.02953029",
+                "start_lng": "77.63143971"
+            },
+            {
+                "start_bus_stop_name": "Kalyananagara",
+                "distance": "3.403",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "13.02644741",
+                "start_lng": "77.63707571"
+            },
+            {
+                "start_bus_stop_name": "80ft Road Kalyananagara",
+                "distance": "4.218",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "13.02554586",
+                "start_lng": "77.64069602"
+            },
+            {
+                "start_bus_stop_name": "Babusabpalya",
+                "distance": "5.037",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "13.02253806",
+                "start_lng": "77.64753967"
+            },
+            {
+                "start_bus_stop_name": "Horamavu Petrol Bunk",
+                "distance": "5.679",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "13.01953021",
+                "start_lng": "77.65450872"
+            },
+            {
+                "start_bus_stop_name": "Vijaya Bank Colony Ring Road",
+                "distance": "6.558",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "13.01723511",
+                "start_lng": "77.65989326"
+            },
+            {
+                "start_bus_stop_name": "B Channasandra",
+                "distance": "7.295",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "13.01052547",
+                "start_lng": "77.66249097"
+            },
+            {
+                "start_bus_stop_name": "Kasthuri Nagara Ring Road",
+                "distance": "8.756",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "13.00402853",
+                "start_lng": "77.66325810"
+            },
+            {
+                "start_bus_stop_name": "Tin Factory",
+                "distance": "9.539",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.99697042",
+                "start_lng": "77.66929525"
+            },
+            {
+                "start_bus_stop_name": "Railway Station KR Puram",
+                "distance": "11.261",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "13.00021342",
+                "start_lng": "77.67596501"
+            },
+            {
+                "start_bus_stop_name": "B Narayanapura Ring Road",
+                "distance": "14.786",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.99620423",
+                "start_lng": "77.68392228"
+            },
+            {
+                "start_bus_stop_name": "Mahadevapura Ring Road",
+                "distance": "17.405",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.99118394",
+                "start_lng": "77.68761413"
+            },
+            {
+                "start_bus_stop_name": "EMC2",
+                "distance": "18.282",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.98181803",
+                "start_lng": "77.69342824"
+            },
+            {
+                "start_bus_stop_name": "Dodda Nekkundi",
+                "distance": "19.635",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.97898227",
+                "start_lng": "77.69516661"
+            },
+            {
+                "start_bus_stop_name": "Karthik Nagara",
+                "distance": "20.582",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.96820330",
+                "start_lng": "77.70167984"
+            },
+            {
+                "start_bus_stop_name": "Marathahalli Bridge",
+                "distance": "21.441",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.95984663",
+                "start_lng": "77.70139050"
+            },
+            {
+                "start_bus_stop_name": "Multiplex Marathahalli Marthahalli Bridge ",
+                "distance": "22.559",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.95228147",
+                "start_lng": "77.70000460"
+            },
+            {
+                "start_bus_stop_name": "Kadabisanahalli",
+                "distance": "23.525",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.94177360",
+                "start_lng": "77.69673541"
+            },
+            {
+                "start_bus_stop_name": "New Horizon College",
+                "distance": "24.16",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.93531828",
+                "start_lng": "77.69115796"
+            },
+            {
+                "start_bus_stop_name": "Devarabisanahalli",
+                "distance": "24.965",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.93143035",
+                "start_lng": "77.68688876"
+            },
+            {
+                "start_bus_stop_name": "Eco Space",
+                "distance": "25.761",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.92775040",
+                "start_lng": "77.68052028"
+            },
+            {
+                "start_bus_stop_name": "Bellanduru City Light Appartment ",
+                "distance": "26.129",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.92472569",
+                "start_lng": "77.67429431"
+            },
+            {
+                "start_bus_stop_name": "Petrol Bunk Bellanduru",
+                "distance": "26.473",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.92322016",
+                "start_lng": "77.67084002"
+            },
+            {
+                "start_bus_stop_name": "Jn of Sarjapura Ring Road ",
+                "distance": "27.161",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.92092954",
+                "start_lng": "77.66603753"
+            },
+            {
+                "start_bus_stop_name": "Ibblur",
+                "distance": "28.489",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.92134441",
+                "start_lng": "77.66195789"
+            },
+            {
+                "start_bus_stop_name": "Jn of Agara",
+                "distance": "29.486",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.92442011",
+                "start_lng": "77.65015543"
+            },
+            {
+                "start_bus_stop_name": "Depot-25 HSR Layout",
+                "distance": "30.562",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.91967254",
+                "start_lng": "77.64301614"
+            },
+            {
+                "start_bus_stop_name": "14th Main HSR Layout",
+                "distance": "31.479",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.91618767",
+                "start_lng": "77.63493597"
+            },
+            {
+                "start_bus_stop_name": "SI Apartment HSR Layout",
+                "distance": "32.037",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.91670010",
+                "start_lng": "77.62928387"
+            },
+            {
+                "start_bus_stop_name": "Central Silk Board",
+                "distance": "32.846",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.91747831",
+                "start_lng": "77.62404046"
+            },
+            {
+                "start_bus_stop_name": "Roopena Agrahara",
+                "distance": "33.695",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.91186255",
+                "start_lng": "77.62604769"
+            },
+            {
+                "start_bus_stop_name": "Bommanahalli",
+                "distance": "34.868",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.90536003",
+                "start_lng": "77.63013142"
+            },
+            {
+                "start_bus_stop_name": "Garvebhavipalya",
+                "distance": "35.702",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.89629994",
+                "start_lng": "77.63568778"
+            },
+            {
+                "start_bus_stop_name": "Kudlu Gate",
+                "distance": "37.143",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.88985737",
+                "start_lng": "77.63965926"
+            },
+            {
+                "start_bus_stop_name": "Singasandra",
+                "distance": "38.287",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.87874432",
+                "start_lng": "77.64647488"
+            },
+            {
+                "start_bus_stop_name": "Hosa Road",
+                "distance": "40.327",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.87059695",
+                "start_lng": "77.65295173"
+            },
+            {
+                "start_bus_stop_name": "Konappana Agarhara",
+                "distance": "41.442",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.85613944",
+                "start_lng": "77.66441613"
+            },
+            {
+                "start_bus_stop_name": "Electronic City",
+                "distance": "41.442",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.84816925",
+                "start_lng": "77.67071120"
+            }
+        ],
+        "ETA:0",
+        "FARE:0"
+    ]
+]

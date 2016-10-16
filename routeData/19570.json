@@ -1,0 +1,305 @@
+[
+    [
+        "vehicleno:NULL",
+        "routeno:600-CH",
+        "vehiclelat:NULL",
+        "vehiclelng:NULL",
+        "routeid:19570",
+        "serviceid:1",
+        "nearestlatlng:NULL",
+        [
+            {
+                "start_bus_stop_name": "Banashankari TTMC",
+                "distance": "0.051",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.91753106",
+                "start_lng": "77.57296011"
+            },
+            {
+                "start_bus_stop_name": "Sangam Circle",
+                "distance": "0.686",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.91764124",
+                "start_lng": "77.57756017"
+            },
+            {
+                "start_bus_stop_name": "5th Block Jayanagara",
+                "distance": "1.256",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.91715230",
+                "start_lng": "77.58337051"
+            },
+            {
+                "start_bus_stop_name": "Marenahalli Petrol Bunk ",
+                "distance": "1.754",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.91701380",
+                "start_lng": "77.58865178"
+            },
+            {
+                "start_bus_stop_name": "Ragigudda Temple",
+                "distance": "2.178",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.91693403",
+                "start_lng": "77.59324430"
+            },
+            {
+                "start_bus_stop_name": "East End Circle",
+                "distance": "2.514",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.91684059",
+                "start_lng": "77.59719395"
+            },
+            {
+                "start_bus_stop_name": "Jayadeva Hospital",
+                "distance": "2.818",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.91681903",
+                "start_lng": "77.60027781"
+            },
+            {
+                "start_bus_stop_name": "MICO Layout",
+                "distance": "3.227",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.91674125",
+                "start_lng": "77.60327853"
+            },
+            {
+                "start_bus_stop_name": "BTM Layout Water Tank",
+                "distance": "3.451",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.91669366",
+                "start_lng": "77.60684366"
+            },
+            {
+                "start_bus_stop_name": "16th Main BTM Layout ",
+                "distance": "4.211",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.91663359",
+                "start_lng": "77.60891085"
+            },
+            {
+                "start_bus_stop_name": "BTM Layout Kuvempu Nagara ",
+                "distance": "4.873",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.91635662",
+                "start_lng": "77.61591532"
+            },
+            {
+                "start_bus_stop_name": "Central Silk Board",
+                "distance": "4.993",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.91704891",
+                "start_lng": "77.62171975"
+            },
+            {
+                "start_bus_stop_name": "Roopena Agrahara",
+                "distance": "5.844",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.91186255",
+                "start_lng": "77.62604769"
+            },
+            {
+                "start_bus_stop_name": "Bommanahalli",
+                "distance": "12.826",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.90536003",
+                "start_lng": "77.63013142"
+            },
+            {
+                "start_bus_stop_name": "Garvebhavipalya",
+                "distance": "13.66",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.89629994",
+                "start_lng": "77.63568778"
+            },
+            {
+                "start_bus_stop_name": "Kudlu Gate",
+                "distance": "15.103",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.88985737",
+                "start_lng": "77.63965926"
+            },
+            {
+                "start_bus_stop_name": "Singasandra",
+                "distance": "16.244",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.87874432",
+                "start_lng": "77.64647488"
+            },
+            {
+                "start_bus_stop_name": "Hosa Road",
+                "distance": "17.916",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.87059695",
+                "start_lng": "77.65295173"
+            },
+            {
+                "start_bus_stop_name": "PESIT College",
+                "distance": "18.362",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.85873107",
+                "start_lng": "77.66232768"
+            },
+            {
+                "start_bus_stop_name": "Konappana Agarhara",
+                "distance": "19.399",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.85613944",
+                "start_lng": "77.66441613"
+            },
+            {
+                "start_bus_stop_name": "Electronic City",
+                "distance": "20.545",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.84816925",
+                "start_lng": "77.67071120"
+            },
+            {
+                "start_bus_stop_name": "Veerasandra",
+                "distance": "21.051",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.83996363",
+                "start_lng": "77.67701100"
+            },
+            {
+                "start_bus_stop_name": "Huskur Gate",
+                "distance": "22.4",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.83725631",
+                "start_lng": "77.67895739"
+            },
+            {
+                "start_bus_stop_name": "Singena Agrahara Cross Fruits Market ",
+                "distance": "23.078",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.84256884",
+                "start_lng": "77.68718242"
+            },
+            {
+                "start_bus_stop_name": "Doddamma Temple",
+                "distance": "23.312",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.84747281",
+                "start_lng": "77.69090261"
+            },
+            {
+                "start_bus_stop_name": "Depot-38 Gate",
+                "distance": "24.436",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.84890621",
+                "start_lng": "77.69234911"
+            },
+            {
+                "start_bus_stop_name": "Sumuka Layout",
+                "distance": "25.072",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.85481441",
+                "start_lng": "77.69989621"
+            },
+            {
+                "start_bus_stop_name": "Chikkanagamangala Gate ",
+                "distance": "25.406",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.85921332",
+                "start_lng": "77.70360187"
+            },
+            {
+                "start_bus_stop_name": "Huskur",
+                "distance": "25.406",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.86146706",
+                "start_lng": "77.70524417"
+            }
+        ],
+        "ETA:0",
+        "FARE:0"
+    ]
+]

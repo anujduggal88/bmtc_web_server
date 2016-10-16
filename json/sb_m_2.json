@@ -1,0 +1,62 @@
+[
+  [
+    "vehicleno:NULL",
+    "routeno:411-B",
+    "vehiclelat:NULL",
+    "vehiclelng:NULL",
+    "routeid:7071",
+    "serviceid:1",
+    "nearestlatlng:NULL",
+    "start_busstopname:Bannerughatta National Park",
+    "end_busstopname:KR Puram Govt Hospital",
+    "traveldistance:40.418",
+    "ETA:",
+    "FARE:0",
+    "routeorder:0"
+  ],
+  [
+    "vehicleno:NULL",
+    "routeno:500-A",
+    "vehiclelat:NULL",
+    "vehiclelng:NULL",
+    "routeid:7362",
+    "serviceid:1",
+    "nearestlatlng:NULL",
+    "start_busstopname:Banashankari TTMC",
+    "end_busstopname:Hebbala Bridge",
+    "traveldistance:33.837",
+    "ETA:",
+    "FARE:0",
+    "routeorder:0"
+  ],
+  [
+    "vehicleno:NULL",
+    "routeno:BSK-D10G",
+    "vehiclelat:NULL",
+    "vehiclelng:NULL",
+    "routeid:8442",
+    "serviceid:1",
+    "nearestlatlng:NULL",
+    "start_busstopname:Banashankari TTMC",
+    "end_busstopname:Depot-10 Hennuru Gate",
+    "traveldistance:28.555",
+    "ETA:",
+    "FARE:0",
+    "routeorder:0"
+  ],
+  [
+    "vehicleno:NULL",
+    "routeno:CSB-KDG",
+    "vehiclelat:NULL",
+    "vehiclelng:NULL",
+    "routeid:10712",
+    "serviceid:1",
+    "nearestlatlng:NULL",
+    "start_busstopname:Central Silk Board",
+    "end_busstopname:Kadugodi Bus Station",
+    "traveldistance:24.359",
+    "ETA:",
+    "FARE:0",
+    "routeorder:0"
+  ]
+]

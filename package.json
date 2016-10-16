@@ -1,0 +1,15 @@
+{
+  "name": "anujbmtc",
+  "version": "1.0.0",
+  "description": "Anuj duggal bmtc",
+  "main": "app.js",
+  "dependencies": {
+    "restify": "^4.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

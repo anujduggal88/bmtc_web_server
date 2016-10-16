@@ -1,0 +1,49 @@
+[
+ 
+  [
+    "vehicleno:NULL",
+    "routeno:171-C",
+    "vehiclelat:NULL",
+    "vehiclelng:NULL",
+    "routeid:19131",
+    "serviceid:1",
+    "nearestlatlng:NULL",
+    "start_busstopname:Kempegowda Bus Station",
+    "end_busstopname:Kendriya Sadana Koramangala",
+    "traveldistance:14.794",
+    "ETA:",
+    "FARE:0",
+    "routeorder:0"
+  ],
+ 
+  [
+    "vehicleno:NULL",
+    "routeno:171-F",
+    "vehiclelat:NULL",
+    "vehiclelng:NULL",
+    "routeid:22479",
+    "serviceid:1",
+    "nearestlatlng:NULL",
+    "start_busstopname:Kempegowda Bus Station",
+    "end_busstopname:NGV Koramangala",
+    "traveldistance:17.634",
+    "ETA:",
+    "FARE:0",
+    "routeorder:0"
+  ],
+  [
+    "vehicleno:NULL",
+    "routeno:171-J",
+    "vehiclelat:NULL",
+    "vehiclelng:NULL",
+    "routeid:29595",
+    "serviceid:1",
+    "nearestlatlng:NULL",
+    "start_busstopname:Kempegowda Bus Station",
+    "end_busstopname:1st Block Koramangala ",
+    "traveldistance:15.977",
+    "ETA:",
+    "FARE:0",
+    "routeorder:0"
+  ]
+]

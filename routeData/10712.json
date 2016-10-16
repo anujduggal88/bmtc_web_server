@@ -1,0 +1,395 @@
+[
+    [
+        "vehicleno:NULL",
+        "routeno:CSB-KDG",
+        "vehiclelat:NULL",
+        "vehiclelng:NULL",
+        "routeid:10712",
+        "serviceid:1",
+        "nearestlatlng:NULL",
+        [
+            {
+                "start_bus_stop_name": "Central Silk Board",
+                "distance": "0.041",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.91768511",
+                "start_lng": "77.62379304"
+            },
+            {
+                "start_bus_stop_name": "SI Apartment HSR Layout",
+                "distance": "0.665",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.91678670",
+                "start_lng": "77.62934068"
+            },
+            {
+                "start_bus_stop_name": "14th Main HSR Layout",
+                "distance": "1.7",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.91634608",
+                "start_lng": "77.63508199"
+            },
+            {
+                "start_bus_stop_name": "Depot-25 HSR Layout",
+                "distance": "2.682",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.91990160",
+                "start_lng": "77.64300216"
+            },
+            {
+                "start_bus_stop_name": "Jn of Agara",
+                "distance": "4.035",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.92442011",
+                "start_lng": "77.65015543"
+            },
+            {
+                "start_bus_stop_name": "Ibblur",
+                "distance": "4.444",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.92147131",
+                "start_lng": "77.66218596"
+            },
+            {
+                "start_bus_stop_name": "Jn of Sarjapura Ring Road ",
+                "distance": "5.038",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.92098907",
+                "start_lng": "77.66581692"
+            },
+            {
+                "start_bus_stop_name": "Petrol Bunk Bellanduru",
+                "distance": "5.421",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.92335363",
+                "start_lng": "77.67075828"
+            },
+            {
+                "start_bus_stop_name": "Bellanduru",
+                "distance": "6.185",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.92503446",
+                "start_lng": "77.67443217"
+            },
+            {
+                "start_bus_stop_name": "Eco Space",
+                "distance": "6.998",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.92781160",
+                "start_lng": "77.68019852"
+            },
+            {
+                "start_bus_stop_name": "Devarabisanahalli",
+                "distance": "7.572",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.93143464",
+                "start_lng": "77.68655287"
+            },
+            {
+                "start_bus_stop_name": "New Horizon College",
+                "distance": "8.612",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.93505386",
+                "start_lng": "77.69055692"
+            },
+            {
+                "start_bus_stop_name": "Kadabisanahalli",
+                "distance": "9.716",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.94214155",
+                "start_lng": "77.69675889"
+            },
+            {
+                "start_bus_stop_name": "Multiplex Marathahalli Marthahalli Bridge ",
+                "distance": "9.999",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.95154859",
+                "start_lng": "77.69970096"
+            },
+            {
+                "start_bus_stop_name": "Marathahalli Bridge",
+                "distance": "10.711",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.95487859",
+                "start_lng": "77.70048293"
+            },
+            {
+                "start_bus_stop_name": "Marathahalli Bridge",
+                "distance": "12.691",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.96026339",
+                "start_lng": "77.70130393"
+            },
+            {
+                "start_bus_stop_name": "Marathahalli Bridge",
+                "distance": "13.472",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.95695594",
+                "start_lng": "77.70181791"
+            },
+            {
+                "start_bus_stop_name": "Munnekolalu Cross",
+                "distance": "14.205",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.95639552",
+                "start_lng": "77.70900393"
+            },
+            {
+                "start_bus_stop_name": "Kundalahalli Gate",
+                "distance": "14.381",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.95684430",
+                "start_lng": "77.71503285"
+            },
+            {
+                "start_bus_stop_name": "Kundalahalli",
+                "distance": "14.691",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.95832429",
+                "start_lng": "77.71559037"
+            },
+            {
+                "start_bus_stop_name": "BEML Gate",
+                "distance": "15.209",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.96097783",
+                "start_lng": "77.71652609"
+            },
+            {
+                "start_bus_stop_name": "AECS Layout Cross",
+                "distance": "15.827",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.96521749",
+                "start_lng": "77.71829903"
+            },
+            {
+                "start_bus_stop_name": "CMRIT College",
+                "distance": "16.16",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.96759276",
+                "start_lng": "77.71396807"
+            },
+            {
+                "start_bus_stop_name": "Kundalahalli Colony",
+                "distance": "17.28",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.97015766",
+                "start_lng": "77.71246804"
+            },
+            {
+                "start_bus_stop_name": "Graphite India",
+                "distance": "17.62",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.97819261",
+                "start_lng": "77.71130868"
+            },
+            {
+                "start_bus_stop_name": "SAP Labs",
+                "distance": "18.107",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.97778185",
+                "start_lng": "77.71441787"
+            },
+            {
+                "start_bus_stop_name": "I Gate",
+                "distance": "18.476",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.97734538",
+                "start_lng": "77.71887146"
+            },
+            {
+                "start_bus_stop_name": "KTPO",
+                "distance": "18.983",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.97698824",
+                "start_lng": "77.72226917"
+            },
+            {
+                "start_bus_stop_name": "White Field TTMC (Vydehi Hospital)",
+                "distance": "19.663",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.97658946",
+                "start_lng": "77.72692723"
+            },
+            {
+                "start_bus_stop_name": "Sathya Sai Hospital",
+                "distance": "20.518",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.98245540",
+                "start_lng": "77.72780105"
+            },
+            {
+                "start_bus_stop_name": "Big Bazzar  ITPL",
+                "distance": "20.724",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.98822336",
+                "start_lng": "77.73193404"
+            },
+            {
+                "start_bus_stop_name": "Pattandur Agrahara Gate",
+                "distance": "21.119",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.98794716",
+                "start_lng": "77.73380882"
+            },
+            {
+                "start_bus_stop_name": "ITPL",
+                "distance": "21.873",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.98769279",
+                "start_lng": "77.73739233"
+            },
+            {
+                "start_bus_stop_name": "GR Tech Park ITPL",
+                "distance": "22.305",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.98661599",
+                "start_lng": "77.74426014"
+            },
+            {
+                "start_bus_stop_name": "BPL",
+                "distance": "22.847",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.98530919",
+                "start_lng": "77.74801791"
+            },
+            {
+                "start_bus_stop_name": "Hope Farm",
+                "distance": "24.105",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.98413044",
+                "start_lng": "77.75247574"
+            },
+            {
+                "start_bus_stop_name": "Kadugodi Bridge",
+                "distance": "24.359",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.99417258",
+                "start_lng": "77.75752481"
+            },
+            {
+                "start_bus_stop_name": "Kadugodi Bus Station",
+                "distance": "24.359",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.99562685",
+                "start_lng": "77.75853309"
+            }
+        ],
+        "ETA:0",
+        "FARE:0"
+    ]
+]

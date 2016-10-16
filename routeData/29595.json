@@ -1,0 +1,295 @@
+[
+    [
+        "vehicleno:NULL",
+        "routeno:171-J",
+        "vehiclelat:NULL",
+        "vehiclelng:NULL",
+        "routeid:29595",
+        "serviceid:1",
+        "nearestlatlng:NULL",
+        [
+            {
+                "start_bus_stop_name": "Kempegowda Bus Station",
+                "distance": "0.081",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.97751447",
+                "start_lng": "77.57178022"
+            },
+            {
+                "start_bus_stop_name": "Maharanis College",
+                "distance": "1.492",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.97705906",
+                "start_lng": "77.58594229"
+            },
+            {
+                "start_bus_stop_name": "KR Circle",
+                "distance": "2.069",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.97472667",
+                "start_lng": "77.58691000"
+            },
+            {
+                "start_bus_stop_name": "St Marthas Hospital",
+                "distance": "2.833",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.96962529",
+                "start_lng": "77.58719475"
+            },
+            {
+                "start_bus_stop_name": "Corporation",
+                "distance": "3.251",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.96483149",
+                "start_lng": "77.58802933"
+            },
+            {
+                "start_bus_stop_name": "Subbaiah Circle",
+                "distance": "4.212",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.96265400",
+                "start_lng": "77.59096469"
+            },
+            {
+                "start_bus_stop_name": "KH Road",
+                "distance": "4.464",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.95772479",
+                "start_lng": "77.59311780"
+            },
+            {
+                "start_bus_stop_name": "Shanthinagara TTMC",
+                "distance": "4.594",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.95452669",
+                "start_lng": "77.59273880"
+            },
+            {
+                "start_bus_stop_name": "Wilson Garden Police Station",
+                "distance": "5.262",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.95140577",
+                "start_lng": "77.59521987"
+            },
+            {
+                "start_bus_stop_name": "10th Cross Wilson Garden ",
+                "distance": "5.796",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.94715044",
+                "start_lng": "77.59805714"
+            },
+            {
+                "start_bus_stop_name": "Lakkasandra",
+                "distance": "6.167",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.94308106",
+                "start_lng": "77.59743743"
+            },
+            {
+                "start_bus_stop_name": "Nimhans Hospital",
+                "distance": "7.091",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.93978245",
+                "start_lng": "77.59789382"
+            },
+            {
+                "start_bus_stop_name": "Bengaluru Dairy Circle",
+                "distance": "8.61",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.93907978",
+                "start_lng": "77.60211848"
+            },
+            {
+                "start_bus_stop_name": "MICO Factory Junction",
+                "distance": "9.69",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.94430325",
+                "start_lng": "77.60286066"
+            },
+            {
+                "start_bus_stop_name": "Adugodi",
+                "distance": "10.175",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.94379309",
+                "start_lng": "77.60780314"
+            },
+            {
+                "start_bus_stop_name": "Adugodi Police Statiion",
+                "distance": "10.816",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.93983132",
+                "start_lng": "77.60960382"
+            },
+            {
+                "start_bus_stop_name": "Forum Mall",
+                "distance": "11.067",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.93475012",
+                "start_lng": "77.61239631"
+            },
+            {
+                "start_bus_stop_name": "Jyothi Nivas College",
+                "distance": "11.6",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.93538329",
+                "start_lng": "77.61426574"
+            },
+            {
+                "start_bus_stop_name": "Kalyana Mantapa Koramangala",
+                "distance": "12.191",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.93735929",
+                "start_lng": "77.61844249"
+            },
+            {
+                "start_bus_stop_name": "Police Station Koramangala ",
+                "distance": "12.66",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.94170308",
+                "start_lng": "77.62162707"
+            },
+            {
+                "start_bus_stop_name": "Koramangala TTMC",
+                "distance": "13.208",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.94071685",
+                "start_lng": "77.62484014"
+            },
+            {
+                "start_bus_stop_name": "Sony World 80ft Road  Koramangala",
+                "distance": "13.619",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.93673009",
+                "start_lng": "77.62652607"
+            },
+            {
+                "start_bus_stop_name": "Canara Bank Koramangala ",
+                "distance": "13.982",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.93422564",
+                "start_lng": "77.62384989"
+            },
+            {
+                "start_bus_stop_name": "BDA Complex Koramangala ",
+                "distance": "14.483",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.93123908",
+                "start_lng": "77.62250884"
+            },
+            {
+                "start_bus_stop_name": "Water Tank Koramangala",
+                "distance": "14.974",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.92736827",
+                "start_lng": "77.62164689"
+            },
+            {
+                "start_bus_stop_name": "Kudure Mukha Colony",
+                "distance": "15.574",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.92561867",
+                "start_lng": "77.62579801"
+            },
+            {
+                "start_bus_stop_name": "John Fowler",
+                "distance": "15.977",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.92445409",
+                "start_lng": "77.63097167"
+            },
+            {
+                "start_bus_stop_name": "1st Block Koramangala ",
+                "distance": "15.977",
+                "end_bus_stop_id": 0,
+                "start_bus_stop_id": 0,
+                "fare": 0,
+                "timetotravel": 0,
+                "start_lat": "12.92506059",
+                "start_lng": "77.63463289"
+            }
+        ],
+        "ETA:0",
+        "FARE:0"
+    ]
+]

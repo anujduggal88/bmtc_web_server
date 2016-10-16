@@ -1,0 +1,62 @@
+[
+    [
+        "vehicleno:KA53F0080",
+        "routeno:600-CH",
+        "vehiclelat:12.916803",
+        "vehiclelng:77.597183",
+        "routeid:19570",
+        "serviceid:1",
+        "nearestlatlng:12.91684059,77.59719395",
+        "start_busstopname:Central Silk Board(Towards-Madivala)",
+        "end_busstopname:Electronic City(Towards-Attibele)",
+        "traveldistance:0.0",
+        "ETA:0",
+        "FARE:0.0",
+        "routeorder:8"
+    ],
+    [
+        "vehicleno:KA01FA0509",
+        "routeno:600-F",
+        "vehiclelat:12.917658",
+        "vehiclelng:77.575394",
+        "routeid:19701",
+        "serviceid:1",
+        "nearestlatlng:12.91764124,77.57756017",
+        "start_busstopname:Central Silk Board(Towards-Madivala)",
+        "end_busstopname:Electronic City(Towards-Attibele)",
+        "traveldistance:0.0",
+        "ETA:0",
+        "FARE:0.0",
+        "routeorder:4"
+    ],
+    [
+        "vehicleno:KA01F4547",
+        "routeno:CJP-ELCW",
+        "vehiclelat:13.037756",
+        "vehiclelng:77.626434",
+        "routeid:32003",
+        "serviceid:1",
+        "nearestlatlng:13.04014175,77.62453436",
+        "start_busstopname:Central Silk Board(Towards-Electronic City)",
+        "end_busstopname:Electronic City(Towards-Electronic City Wipro Gate)",
+        "traveldistance:0.0",
+        "ETA:0",
+        "FARE:0.0",
+        "routeorder:12"
+    ],
+    [
+        "vehicleno:KA01FA2039",
+        "routeno:MEBP-ELC",
+        "vehiclelat:13.044633",
+        "vehiclelng:77.620552",
+        "routeid:18367",
+        "serviceid:3",
+        "nearestlatlng:13.04410600,77.62075514",
+        "start_busstopname:Central Silk Board(Towards-Central Central Silk Board)",
+        "end_busstopname:Electronic City(Towards-Attibele)",
+        "traveldistance:0.0",
+        "ETA:0",
+        "FARE:0.0",
+        "routeorder:1"
+    ]
+]

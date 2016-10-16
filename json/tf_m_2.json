@@ -1,0 +1,64 @@
+{
+    "vehicles": [
+        {
+            "vehicleno": "NULL",
+            "routeno": "500-G",
+            "vehiclelat": "NULL",
+            "vehiclelng": "NULL",
+            "routeid": "2527",
+            "serviceid": "1",
+            "nearestlatlng": "NULL",
+            "start_busstopname": "Devasandra Chikkamaranahalli",
+            "end_busstopname": "Central Silk Board",
+            "traveldistance": "124.231",
+            "ETA": "",
+            "FARE": "0",
+            "routeorder": "0"
+        },
+        {
+            "vehicleno": "NULL",
+            "routeno": "411-B",
+            "vehiclelat": "NULL",
+            "vehiclelng": "NULL",
+            "routeid": "7072",
+            "serviceid": "1",
+            "nearestlatlng": "NULL",
+            "start_busstopname": "KR Puram Govt Hospital",
+            "end_busstopname": "Bannerughatta National Park",
+            "traveldistance": "47.375",
+            "ETA": "",
+            "FARE": "0",
+            "routeorder": "0"
+        },
+        {
+            "vehicleno": "NULL",
+            "routeno": "500-A",
+            "vehiclelat": "NULL",
+            "vehiclelng": "NULL",
+            "routeid": "7364",
+            "serviceid": "1",
+            "nearestlatlng": "NULL",
+            "start_busstopname": "Hebbala Bridge",
+            "end_busstopname": "Banashankari TTMC",
+            "traveldistance": "34.986",
+            "ETA": "",
+            "FARE": "0",
+            "routeorder": "0"
+        },
+        {
+            "vehicleno": "NULL",
+            "routeno": "504",
+            "vehiclelat": "NULL",
+            "vehiclelng": "NULL",
+            "routeid": "8092",
+            "serviceid": "1",
+            "nearestlatlng": "NULL",
+            "start_busstopname": "Tin Factory",
+            "end_busstopname": "Tin Factory",
+            "traveldistance": "24.983",
+            "ETA": "",
+            "FARE": "0",
+            "routeorder": "0"
+        }
+    ]
+}
